@@ -1,13 +1,13 @@
 # FreeGPT4.0APIKEY
-FreeGPT4.0APIKEY 中转 点击了解👉🏻 <a href="https://oneapi.huinong.co" target="_blank">GPTech API</a>
+FreeGPT4.0APIKEY 中转 点击了解👉🏻 <a href="https://api.scvn.cn" target="_blank">GPTech API</a>
 # 它的特点：
 #### 方便：所有用到 OpenAI API 的地方都可以无缝替代；
 #### 快速：我会持续优化中转服务的线路速度，来保证使用体验；
 #### 省心：没有包月，没有会员，没有限时，用多少买多少，不用担心过期。
 # 如何使用？
-首先需要<a href="https://oneapi.huinong.co/register" target="_blank">【注册】</a>一个平台账号成为平台用户，然后去<a href="https://oneapi.huinong.co/token" target="_blank">【令牌】</a> 中生成令牌（令牌名称随便写方便自己记忆，令牌过期时间自己用可以设置为不过期，令牌余额自己用直接设置为不限额）。  
+首先需要<a href="https://api.scvn.cn/register" target="_blank">【注册】</a>一个平台账号成为平台用户，然后去<a href="https://api.scvn.cn/token" target="_blank">【令牌】</a> 中生成令牌（令牌名称随便写方便自己记忆，令牌过期时间自己用可以设置为不过期，令牌余额自己用直接设置为不限额）。  
 点击打开👉🏻  <a href="https://bot.huinong.co" target="_blank">ChatGPT Next Web</a> 或任何第三方可以更换接口和APIKey的地方即可使用。  
-在“设置”中找到 "接口地址"填入 ```https://oneapi.huinong.co```，在“API Key”中填入复制的 ```令牌key ```，就可以使用了。  
+在“设置”中找到 "接口地址"填入 ```https://api.scvn.cn```，在“API Key”中填入复制的 ```令牌key ```，就可以使用了。  
 独立开发者或者部署的技术人员需要把BASE_URL 替换 为上面 接口地址，API Key 替换为 令牌 Key。  
 只需要保证自己账户余额充足，不限制调用次数，不限制使用时间，余额用完即止。余额不足请点击👉🏻 【充值】按钮查看余额或进行购买兑换余额。  
 另外Midjourney的API调用需要单独对接，如果是使用Mj的请联系我获取开发文档。  
